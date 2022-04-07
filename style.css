@@ -1,0 +1,59 @@
+#introTable {
+  margin-left: 10%;
+  width: 80%;
+}
+/* below class is used for circle separation */
+.Circle {
+  height: 10px;
+  width: 10px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+.BottomLine {
+  border-bottom: none;
+}
+.button {
+  width: 150px;
+  height: 30px;
+  margin-left: 50%;
+  text-align: center;
+  vertical-align: auto;
+  background-color: orangered;
+  font-size: larger;
+  border-radius: 10px;
+  box-shadow: 10px;
+}
+.link {
+  color: white;
+  text-decoration: none;
+  margin-top: 50px;
+}
+.index-body {
+  background-image: linear-gradient(to bottom right, red, yellow);
+}
+
+.contactTable {
+  border: 0px;
+  margin-top: 3%;
+  width: 90%;
+  margin-left: 40%;
+}
+.textBoxDecoration {
+  width: 500px;
+  height: 30px;
+}
+.textArea {
+  width: 500px;
+  height: 200px;
+}
+.contactButton {
+  background-color: orangered;
+  font-size: large;
+  color: white;
+  border-color: orangered;
+  margin-left: 10%;
+}
+body {
+  font-family: 'Trirong', sans-serif;
+}
